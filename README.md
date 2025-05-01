@@ -45,6 +45,7 @@ Este trabajo se basa en el esfuerzo colectivo y la infraestructura proporcionada
 - [Gezine/ArtemisLuaLoader](https://github.com/Gezine/ArtemisLuaLoader)
 - [shahrilnet/remote_lua_loader](https://github.com/shahrilnet/remote_lua_loader)
 - [Master-s/remote_lua_loader](https://github.com/Master-s/remote_lua_loader)
+- https://github.com/EchoStretch
 
 Agradecimientos especiales a los desarrolladores de estas plataformas
 
