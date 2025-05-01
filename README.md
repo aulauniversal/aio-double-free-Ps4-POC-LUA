@@ -30,7 +30,7 @@ El exploit ha sido adaptado completamente a Lua para ser utilizado en entornos c
 ## ⚡ Cambios realizados respecto al exploit original
 
 - **Optimización del uso de memoria**: se realiza la reserva de buffers fuera de los bucles principales para evitar agotar el *bump allocator*.
-- **Mejora de la eficiencia**: opción de salto directo a la ventana de race condition observada (intento 3874).
+- **Mejora de la eficiencia**: opción de salto directo a la ventana de race condition observada (intento 3874 con juego AIKAGI 2 en FW 11.00).
 - **Implementación de tres variantes**:
   - Estándar (5000 intentos),
   - Debugging infinito (feedback visual en cada intento),
